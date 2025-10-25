@@ -43,14 +43,14 @@ python -m venv venv
 .\venv\Scripts\activate.ps1
 
 # 4. Instala las dependencias de Python
-pip install -r requirements.txt
+pip install -r requirements.txt``
 
-Ejecución (cada vez que quieras usar la app):
+**Ejecución (cada vez que quieras usar la app):**
 
-Bash
+``Bash
 
 # 1. Asegúrate de estar en la carpeta /backend y que (venv) esté activado
-python app.py
+python app.py``
 
 ### 2.  Front-end (App en React)
 La Web App en React consume la API y muestra los resultados al usuario.
