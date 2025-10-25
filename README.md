@@ -83,7 +83,7 @@ cd frontend
 npm install
 ```
 
-#### ▶️ Ejecución (cada vez que quieras usar la app)
+####  Ejecución (cada vez que quieras usar la app)
 
 ```bash
 # 1. Asegúrate de estar en la carpeta /frontend
