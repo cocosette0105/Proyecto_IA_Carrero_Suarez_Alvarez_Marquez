@@ -51,8 +51,9 @@ cd backend
 python -m venv venv
 
 # 3. Activa el entorno virtual
-# (En Windows PowerShell)
-.env\Scriptsctivate.ps1
+
+.\venv\Scripts\Activate.ps1
+
 
 # 4. Instala las dependencias de Python
 pip install -r requirements.txt
